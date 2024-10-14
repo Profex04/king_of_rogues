@@ -1,0 +1,3 @@
+0 None
+2 BoneSpike
+2 CharmPerson

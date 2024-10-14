@@ -1,0 +1,5 @@
+0 Melee
+2 Dagger
+4 Sword
+4 Guitar
+2 Bite
